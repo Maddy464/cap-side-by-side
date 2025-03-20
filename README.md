@@ -56,6 +56,8 @@ cds bind -2 es5_connect:srvconnect_key
 
 ************************************************
 
+cds watch --profile hybrid
+
 SAP Note 3112360
 
 
